@@ -43,6 +43,11 @@ Running the server so it returns an error when saving/deleting for testing the c
 npm run error
 ```
 
+Running the server for cypress tests
+```
+npm run test:server
+```
+
 ## Api
 
 ### Days
